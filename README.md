@@ -1,2 +1,3 @@
-# replay-cl-in-ml-pipelines
-Replay-Based Continuous Learning in Machine Learning Pipelines
+# Replay-Based Continuous Learning in Machine Learning Pipelines
+
+This repository contains additional plots and a simplified Python implementation for the training pipeline.
